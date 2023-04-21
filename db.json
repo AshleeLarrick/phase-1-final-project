@@ -1,0 +1,66 @@
+{
+    "fish" : [
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Bream",
+            "weather" : "any",
+            "time" : "6pm - 2am",
+            "location" : "river"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Largemouth bass",
+            "weather" : "any",
+            "time" : "6am - 7pm",
+            "location" : "mountain lake"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Carp",
+            "weather" : "any",
+            "time" : "any",
+            "location" : "mountain lake"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Sandfish",
+            "weather" : "any",
+            "time" : "6am - 8pm",
+            "location" : "desert"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Woodskip",
+            "weather" : "any",
+            "time" : "any",
+            "location" : "secret woods"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Void Salmon",
+            "weather" : "any",
+            "time" : "any",
+            "location" : "witch's swamp"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Slime Jack",
+            "weather" : "any",
+            "time" : "8am - 2pm",
+            "location" : "sewer"
+        },
+        {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Stingray",
+            "weather" : "any",
+            "time" : "2pm-10pm",
+            "location" : "pirate's cove"
+        }, {
+            "seasons" : ["fall", "summer", "spring", "winter"],
+            "name" : "Lionfish",
+            "weather" : "any",
+            "time" : "any",
+            "location" : "ginger island"
+        }
+    ]
+}
