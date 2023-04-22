@@ -10,56 +10,56 @@
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Largemouth bass",
-            "weather" : "any",
+            "weather" : "Any Weather",
             "time" : "6am - 7pm",
             "location" : "mountain lake"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Carp",
-            "weather" : "any",
-            "time" : "any",
+            "weather" : "Any Weather",
+            "time" : "Any Weather",
             "location" : "mountain lake"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Sandfish",
-            "weather" : "any",
+            "weather" : "Any Weather",
             "time" : "6am - 8pm",
             "location" : "desert"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Woodskip",
-            "weather" : "any",
-            "time" : "any",
+            "weather" : "Any Weather",
+            "time" : "Any Weather",
             "location" : "secret woods"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Void Salmon",
-            "weather" : "any",
-            "time" : "any",
+            "weather" : "Any Weather",
+            "time" : "Any Weather",
             "location" : "witch's swamp"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Slime Jack",
-            "weather" : "any",
+            "weather" : "Any Weather",
             "time" : "8am - 2pm",
             "location" : "sewer"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Stingray",
-            "weather" : "any",
+            "weather" : "Any Weather",
             "time" : "2pm-10pm",
             "location" : "pirate's cove"
         }, {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Lionfish",
-            "weather" : "any",
-            "time" : "any",
+            "weather" : "Any Weather",
+            "time" : "Any Weather",
             "location" : "ginger island"
         }
     ]
