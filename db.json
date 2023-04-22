@@ -18,7 +18,7 @@
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Carp",
             "weather" : "Any Weather",
-            "time" : "Any Weather",
+            "time" : "Any Time",
             "location" : "mountain lake"
         },
         {
@@ -32,14 +32,14 @@
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Woodskip",
             "weather" : "Any Weather",
-            "time" : "Any Weather",
+            "time" : "Any Time",
             "location" : "secret woods"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Void Salmon",
             "weather" : "Any Weather",
-            "time" : "Any Weather",
+            "time" : "Any Time",
             "location" : "witch's swamp"
         },
         {
@@ -59,7 +59,7 @@
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Lionfish",
             "weather" : "Any Weather",
-            "time" : "Any Weather",
+            "time" : "Any Time",
             "location" : "ginger island"
         }
     ]
