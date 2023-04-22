@@ -5,35 +5,35 @@
             "name" : "Bream",
             "weather" : "Any Weather",
             "time" : "6pm - 2am",
-            "location" : "river"
+            "location" : "River"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Largemouth bass",
             "weather" : "Any Weather",
             "time" : "6am - 7pm",
-            "location" : "mountain lake"
+            "location" : "Mountain Lake"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Carp",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "mountain lake"
+            "location" : "Mountain Lake"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Sandfish",
             "weather" : "Any Weather",
             "time" : "6am - 8pm",
-            "location" : "desert"
+            "location" : "Desert"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Woodskip",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "secret woods"
+            "location" : "Secret Woods"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
@@ -60,7 +60,7 @@
             "name" : "Lionfish",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "ginger island"
+            "location" : "Ginger Island"
         }
     ]
 }
