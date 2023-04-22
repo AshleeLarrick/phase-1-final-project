@@ -40,21 +40,21 @@
             "name" : "Void Salmon",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "witch's swamp"
+            "location" : "Witch's Swamp"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Slime Jack",
             "weather" : "Any Weather",
             "time" : "8am - 2pm",
-            "location" : "sewer"
+            "location" : "Sewer"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Stingray",
             "weather" : "Any Weather",
             "time" : "2pm-10pm",
-            "location" : "pirate's cove"
+            "location" : "Pirate's Cove"
         }, {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Lionfish",
