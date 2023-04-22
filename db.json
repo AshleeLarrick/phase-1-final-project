@@ -3,7 +3,7 @@
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Bream",
-            "weather" : "any",
+            "weather" : "Any Weather",
             "time" : "6pm - 2am",
             "location" : "river"
         },
