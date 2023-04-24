@@ -19,6 +19,10 @@ function showAllFish(event) {
                     const p = document.createElement("p")
                     p.innerHTML = data[index].name
                     li.appendChild(p)
+                    const btn = document.createElement("button")
+                    btn.innerHTML = "See More"
+                    li.appendChild(btn)
+                    btn.addEventListener("click",() => {
 }
 
 function showFish(event) {
