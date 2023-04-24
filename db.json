@@ -159,6 +159,30 @@
             "time" : "6am - 7pm",
             "location" : "River",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png"
+        },
+        {
+            "seasons" : ["Summer", "Winter"],
+            "name" : "Sturgeon",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png"
+         },
+         {
+            "seasons" : ["Summer", "Spring"],
+            "name" : "Flounder",
+            "weather" : "Any Weather",
+            "time" : "6am - 8pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png"
+        },
+	    {
+            "seasons" : ["Spring", "Winter"],
+            "name" : "Herring",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png"
         }
     ]
 }
