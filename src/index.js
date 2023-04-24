@@ -32,8 +32,6 @@ function showFish(event) {
                     ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location
                     li.appendChild(p)
                     } )
-                    /*li.innerHTML = data[index].name + ': ' + data[index].seasons.toString() + 
-                    ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location */
                     list.appendChild(li)
                 }
             }
