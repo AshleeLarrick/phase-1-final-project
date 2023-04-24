@@ -32,6 +32,7 @@ function showAllFish(event) {
             }
         }
         )
+    }
 
 function showFish(event) {
     if(event.key === 'Enter'){
