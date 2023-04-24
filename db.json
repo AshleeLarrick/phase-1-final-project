@@ -63,7 +63,8 @@
             "time" : "2pm-10pm",
             "location" : "Pirate's Cove",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/3/3a/Stingray.png"
-        }, {
+        }, 
+        {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Lionfish",
             "weather" : "Any Weather",
@@ -110,6 +111,54 @@
             "time" : "12pm - 4pm",
             "location" : "Ginger Island",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png"
+        },
+        {
+            "seasons" : ["Fall", "Summer", "Winter"],
+            "name" : "Red Snapper",
+            "weather" : "Rain",
+            "time" : "6am- 7pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png"
+        },
+        {
+            "seasons" : ["Fall", "Winter"],
+            "name" : "Midnight Carp",
+            "weather" : "Any Weather",
+            "time" : "10pm - 2am",
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/3/33/Midnight_Carp.png"
+        },        
+	    {
+            "seasons" : ["Fall", "Winter"],
+            "name" : "Tiger Trout",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png"
+        },
+        {
+            "seasons" : ["Fall", "Winter"],
+            "name" : "Albacore",
+            "weather" : "Any Weather",
+            "time" : "6pm - 2am",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/e/e1/Albacore.png"
+         },
+         {
+            "seasons" : ["Fall", "Summer", "Spring"],
+            "name" : "Shad",
+            "weather" : "Rain",
+            "time" : "9am - 2am",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png"
+        },
+	    {
+            "seasons" : ["Summer", "Spring"],
+            "name" : "Sunfish",
+            "weather" : "Sunny/ Windy",
+            "time" : "6am - 7pm",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png"
         }
     ]
 }
