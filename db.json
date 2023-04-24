@@ -94,6 +94,22 @@
             "time" : "Any Time",
             "location" : "Mountain Lake",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png"
+        },
+        {
+            "seasons" : ["Fall", "Summer", "Spring", "Winter"],
+            "name" : "Blue Discus",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Ginger Island",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/e/ee/Blue_Discus.png"
+        },
+        {
+            "seasons" : ["Fall", "Summer", "Spring", "Winter"],
+            "name" : "Pufferfish",
+            "weather" : "Any Weather",
+            "time" : "12pm - 4pm",
+            "location" : "Ginger Island",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png"
         }
     ]
 }
