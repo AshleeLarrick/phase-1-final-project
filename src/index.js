@@ -26,6 +26,8 @@ function showAllFish(event) {
                         const p = document.createElement("p")
                     p.innerHTML = data[index].seasons.toString() + 
                     ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location
+                    li.appendChild(p)
+                } )
 }
 
 function showFish(event) {
