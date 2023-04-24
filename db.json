@@ -183,6 +183,38 @@
             "time" : "Any Time",
             "location" : "Ocean",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png"
+        },
+        {
+            "seasons" : ["Spring", "Fall"],
+            "name" : "Anchovy",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/7/79/Anchovy.png"
+        },
+	    {
+            "seasons" : ["Spring", "Summer", "Winter"],
+            "name" : "Halibut",
+            "weather" : "Any Weather",
+            "time" : "6am - 11am",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/0/02/Halibut.png"
+         },
+         {
+            "seasons" : ["Summer", "Fall"],
+            "name" : "Tilapia",
+            "weather" : "Any Weather",
+            "time" : "6am - 2pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png"
+	    },
+	    {
+            "seasons" : ["Summer", "Winter"],
+            "name" : "Tuna",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png"
         }
     ]
 }
