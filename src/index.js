@@ -26,6 +26,9 @@ function showAllFish(event) {
                         const p = document.createElement("p")
                     p.innerHTML = data[index].seasons.toString() + 
                     ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location
+                    if(li.lastChild.nodeName === 'P') {
+                        li.removeChild(li.lastChild)
+                    }
                     li.appendChild(p)
                 } )
                 list.appendChild(li)
@@ -62,6 +65,9 @@ function showFish(event) {
                         const p = document.createElement("p")
                     p.innerHTML = data[index].seasons.toString() + 
                     ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location
+                    if(li.lastChild.nodeName === 'P') {
+                        li.removeChild(li.lastChild)
+                    }
                     li.appendChild(p)
                     } )
                     list.appendChild(li)
