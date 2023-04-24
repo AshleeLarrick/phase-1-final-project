@@ -1,6 +1,10 @@
 document.getElementsByName("name")[0].addEventListener("keypress", showFish)
+document.getElementById("see-all-btn").addEventListener("click", showAllFish)
 const url = "http://localhost:3000/fish"
 
+function showAllFish(event) {
+    
+}
 
 function showFish(event) {
     if(event.key === 'Enter'){
