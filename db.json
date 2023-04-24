@@ -70,6 +70,30 @@
             "time" : "Any Time", 
             "location" : "Ginger Island",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/b/bb/Lionfish.png"
+        },
+        {
+            "seasons" : ["Fall", "Summer", "Spring", "Winter"],
+            "name" : "Scorpion Carp",
+            "weather" : "Any Weather",
+            "time" : "6am - 8pm",
+            "location" : "Desert",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/7/76/Scorpion_Carp.png"
+        },
+        {
+            "seasons" : ["Fall", "Summer", "Spring", "Winter"],
+            "name" : "Bullhead",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png"
+        },
+        {
+            "seasons" : ["Fall", "Summer", "Spring", "Winter"],
+            "name" : "Chub",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png"
         }
     ]
 }
