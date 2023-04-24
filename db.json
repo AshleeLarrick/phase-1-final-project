@@ -215,6 +215,134 @@
             "time" : "6am - 7pm",
             "location" : "Ocean",
             "image" : "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png"
+        },
+        {
+            "seasons" : ["Fall"],
+            "name" : "Salmon",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/e/e0/Salmon.png"
+        },
+	    {
+            "seasons" : ["Summer"],
+            "name" : "Rainbow Trout",
+            "weather" : "Sunny",
+            "time" : "6am - 7pm",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png"
+        },
+	    {
+            "seasons" : ["Winter"],
+            "name" : "Lingcod",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/8/87/Lingcod.png"
+         },
+	    {
+            "seasons" : ["Winter"],
+            "name" : "Perch",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/4/43/Perch.png"
+        },
+	    {
+            "seasons" : ["Summer", "Winter"],
+            "name" : "Red Mullett",
+            "weather" : "Rain",
+            "time" : "6am - 7pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/f/f2/Red_Mullet.png"
+        },
+	    {
+            "seasons" : ["Fall", "Winter"],
+            "name" : "Sea Cucumber",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
+         },
+	    {
+            "seasons" : ["Fall", "Summer"],
+            "name" : "Super Cucumber",
+            "weather" : "Any Weather",
+            "time" : "6pm - 2am",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png"
+        },
+	    {
+            "seasons" : ["Fall", "Winter"],
+            "name" : "Walleye",
+            "weather" : "Rain",
+            "time" : "12pm - 2am",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png"
+        },
+	    {
+            "seasons" : ["Summer", "Winter"],
+            "name" : "Pike",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/3/31/Pike.png"
+         },
+	    {
+            "seasons" : ["Winter"],
+            "name" : "Squid",
+            "weather" : "Any Weather",
+            "time" : "6pm - 2am",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png"
+        },
+	    {
+            "seasons" : ["Summer"],
+            "name" : "Dorado",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/1/18/Dorado.png"
+        },
+	    {
+            "seasons" : ["Summer"],
+            "name" : "Octopus",
+            "weather" : "Any Weather",
+            "time" : "6am - 1pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
+         },
+	    {
+            "seasons" : ["Spring", "Fall", "Winter"],
+            "name" : "Sardine",
+            "weather" : "Any Weather",
+            "time" : "6am - 7pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png"
+        },
+	    {
+            "seasons" : ["Spring", "Fall"],
+            "name" : "Smallmouth Bass",
+            "weather" : "Any Weather",
+            "time" : "Any Time",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png"
+         },
+         {
+            "seasons" : ["Spring", "Summer", "Fall"],
+            "name" : "Catfish",
+            "weather" : "Rain",
+            "time" : "6am - 12am",
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png"
+	    },
+	    {
+            "seasons" : ["Spring", "Fall"],
+            "name" : "Eel",
+            "weather" : "Rain",
+            "time" : "6am - 1pm",
+            "location" : "Ocean",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png"
         }
     ]
 }
