@@ -28,7 +28,10 @@ function showAllFish(event) {
                     ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location
                     li.appendChild(p)
                 } )
-}
+                list.appendChild(li)
+            }
+        }
+        )
 
 function showFish(event) {
     if(event.key === 'Enter'){
