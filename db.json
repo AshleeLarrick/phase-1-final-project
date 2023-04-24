@@ -5,62 +5,71 @@
             "name" : "Bream",
             "weather" : "Any Weather",
             "time" : "6pm - 2am",
-            "location" : "River"
+            "location" : "River",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/8/82/Bream.png"  
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
-            "name" : "Largemouth bass",
+            "name" : "Largemouth Bass",
             "weather" : "Any Weather",
             "time" : "6am - 7pm",
-            "location" : "Mountain Lake"
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Carp",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "Mountain Lake"
+            "location" : "Mountain Lake",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Sandfish",
             "weather" : "Any Weather",
             "time" : "6am - 8pm",
-            "location" : "Desert"
+            "location" : "Desert",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Woodskip",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "Secret Woods"
+            "location" : "Secret Woods",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/9/97/Woodskip.png"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Void Salmon",
             "weather" : "Any Weather",
             "time" : "Any Time",
-            "location" : "Witch's Swamp"
+            "location" : "Witch's Swamp",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/a/ad/Void_Salmon.png"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Slime Jack",
             "weather" : "Any Weather",
             "time" : "8am - 2pm",
-            "location" : "Sewer"
+            "location" : "Sewer",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/3/34/Slimejack.png"
         },
         {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Stingray",
             "weather" : "Any Weather",
             "time" : "2pm-10pm",
-            "location" : "Pirate's Cove"
+            "location" : "Pirate's Cove",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/3/3a/Stingray.png"
         }, {
             "seasons" : ["Fall", "Summer", "Spring", "Winter"],
             "name" : "Lionfish",
             "weather" : "Any Weather",
-            "time" : "Any Time",
-            "location" : "Ginger Island"
+            "time" : "Any Time", 
+            "location" : "Ginger Island",
+            "image" : "https://stardewvalleywiki.com/mediawiki/images/b/bb/Lionfish.png"
         }
     ]
 }
