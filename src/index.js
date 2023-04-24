@@ -23,6 +23,9 @@ function showAllFish(event) {
                     btn.innerHTML = "See More"
                     li.appendChild(btn)
                     btn.addEventListener("click",() => {
+                        const p = document.createElement("p")
+                    p.innerHTML = data[index].seasons.toString() + 
+                    ', ' + data[index].weather + ', ' + data[index].time + ', ' + data[index].location
 }
 
 function showFish(event) {
