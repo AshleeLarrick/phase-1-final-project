@@ -16,6 +16,9 @@ function showAllFish(event) {
                     const image = document.createElement("img")
                     image.src = data[index].image
                     li.appendChild(image)
+                    const p = document.createElement("p")
+                    p.innerHTML = data[index].name
+                    li.appendChild(p)
 }
 
 function showFish(event) {
