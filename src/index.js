@@ -9,6 +9,13 @@ function showAllFish(event) {
             list = document.getElementById('fish-list')
             while (list.firstChild) {
                 list.removeChild(list.firstChild);
+            }
+            const fish = event.target.value.toLowerCase()
+            for(const index in data) {
+                let li = document.createElement("li")
+                    const image = document.createElement("img")
+                    image.src = data[index].image
+                    li.appendChild(image)
 }
 
 function showFish(event) {
